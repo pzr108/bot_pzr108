@@ -1,1 +1,1 @@
-ibra es nigga 
+ibra es guapo
