@@ -65,7 +65,7 @@
               { role: "system", content: personalidad },
               { role: "user", content: mensaje }
             ],
-            max_tokens: 200
+            max_tokens: 500
           })
         });
         const datos = await respuesta.json();
